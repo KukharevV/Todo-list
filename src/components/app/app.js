@@ -13,7 +13,7 @@ export default class App extends Component {
 
     this.state = {
       todoData : [
-        this.createTodoItem('Check e-mail'),
+        this.createTodoItem('Check email'),
         this.createTodoItem('Create Awesome React App'),
         this.createTodoItem('Get lunch')
       ],
